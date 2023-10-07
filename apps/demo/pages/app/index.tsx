@@ -22,7 +22,7 @@ export default function AppPage({}) {
             Formbricks In-product Survey Demo App
           </h1>
           <p className="text-slate-700 dark:text-slate-300">
-            This app helps you test your in-app surveys. You can create and test user actions, create and
+            This application helps you test your in-app surveys. You can create and test user actions, create and
             update user attributes, etc.
           </p>
         </div>
